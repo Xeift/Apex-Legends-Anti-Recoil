@@ -24,6 +24,9 @@ I assume you've already installed python, click [here](https://github.com/Xeift/
 
 After that, unzip the folder and you'll see `apex_recoil_adjust.py`. Right click and open/run it with idle or vs code.
 
+
+Below are keys you need to control script, check your apex settings to make sure not conflict with your default settings.
+
 `Caps lock` Active/Deactive the script
 
 `F1~F12` Adjust recoil offset. The higher the numer is, the more recoil will be offset. The best recoil for R99 is 7. You can try them by yourselves.
