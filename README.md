@@ -1,28 +1,24 @@
 # Apex-Legends-Anti-Recoil
-Simple python script to randomize anti recoil in any video game. @thecamwars HF
+I forked the [repl] (https://github.com/GoogleBhrome/Apex-Legends-Anti-Recoil) and made some minor change, it is more easy to use now.
 
+If you're new to python, just google some video tutorials on youtube to learn how to correctly install python and modules.
 
-Hey guys, I recently wrote a small python script for my brother for the game Apex Legends. All the script does is when you toggle it on by numlock, and then hold down your left click, it will bring your reticle down a couple of pixels. I added a randomization feature where it will choose from intervals of time, horizontal travel, and verticle.
+### Requirements
+python3
 
-This is all really basic. My brother has used it for 2 weeks and no ban yet, so I decided to give it to you guys. This should work in any randomized recoil pattern game great, even though apex isnt, I believe anti-cheat will ban if we exactly match the spray pattern.
-I would love to see what you guys can come up with if you edit the source code.
-
-This is python, and if you do not know how to use it, don't. I am not going to make an exe out of it.
-I also hear that Powershell has less chance of being detected, so run it in PowerShell.
-Requirements are python3
-optional VB
-And you will need to PIP these
+And you will need to PIP these modules
 import pyautogui
 import time
 import win32api
 import random
 import keyboard
 
+### Quickstart
 
-The default button to toggle is "num lock" but you can change it if you look up keyboard call signs.
-I have brought the settings to the very top so you can change them easily.
-You will have to go to the range to fine tune in your weapon, but the basic one I have right now I used for all the guns regardless.
-For havoc, google spin up time and put that as min_fireate = blah blah.
+I assume you've already installed python, click [here](https://github.com/Xeift/Apex-Legends-Anti-Recoil/archive/refs/heads/master.zip) to download file you need.
 
+After that, unzip the folder and you'll see `apex_recoil_adjust.py`. Right click and open/run it with idle or vs code.
 
-Again, Let me know if you like it, hopefully it'll go undetected for a while, but always good to use in other games.
+`Caps lock` Active/Deactive the script
+
+`F1~F12` Adjust recoil offset. The higher the numer is, the more recoil will be offset. The best recoil for R99 is 7. You can try them by yourselves.
