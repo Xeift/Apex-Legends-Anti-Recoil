@@ -1,5 +1,5 @@
 # Apex-Legends-Anti-Recoil
-I forked the [repl] (https://github.com/GoogleBhrome/Apex-Legends-Anti-Recoil) and made some minor change, it is more easy to use now.
+I forked the [repl](https://github.com/GoogleBhrome/Apex-Legends-Anti-Recoil) and made some minor change, it is more easy to use now.
 
 If you're new to python, just google some video tutorials on youtube to learn how to correctly install python and modules.
 
