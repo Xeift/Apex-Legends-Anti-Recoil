@@ -30,3 +30,7 @@ Below are keys you need to control script, check your apex settings to make sure
 `Caps lock` Active/Deactive the script
 
 `F1~F12` Adjust recoil offset. The higher the numer is, the more recoil will be offset. The best recoil for R99 is 7. You can try them by yourselves.
+
+### Video
+
+https://youtu.be/QvaBT8pkHgg
