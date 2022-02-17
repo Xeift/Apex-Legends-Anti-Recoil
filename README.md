@@ -7,10 +7,15 @@ If you're new to python, just google some video tutorials on youtube to learn ho
 python3
 
 And you will need to PIP these modules
+
 import pyautogui
+
 import time
+
 import win32api
+
 import random
+
 import keyboard
 
 ### Quickstart
