@@ -3,6 +3,8 @@ I forked the [repl](https://github.com/GoogleBhrome/Apex-Legends-Anti-Recoil) an
 
 If you're new to python, just google some video tutorials on youtube to learn how to correctly install python and modules.
 
+You can use this script in any gun game.
+
 ### Requirements
 python3
 
